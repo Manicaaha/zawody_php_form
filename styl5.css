@@ -1,17 +1,12 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.lewy{
-    float: left;
-}
 .lewy, .prawy{
     background-color: rosybrown;
     color: white;
     width: 30%;
     height: 200px;
-}
-.prawy{
-    float: right;
+    float: left;
 }
 .srodkowy{
     background-color: rosybrown;
